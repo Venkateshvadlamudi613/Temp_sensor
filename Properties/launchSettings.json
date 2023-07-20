@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Temp_sensor": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
